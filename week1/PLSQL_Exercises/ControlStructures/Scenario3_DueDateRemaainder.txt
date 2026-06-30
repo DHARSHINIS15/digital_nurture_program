@@ -1,0 +1,9 @@
+DECLARE
+CURSOR C3 IS SELECT c.Name, l.EndDate FROM Customers c JOIN Loans l ON c.CustomerID =l.CustomerID WHERE EndDate BETWEEN SYSDATE AND SYSDATE+30;
+BEGIN
+FOR cur IN C3
+LOOP
+	DBMS_OUTPUT.PUT_LINE('Dear '||cur.Name||' , your loan is due on '||cur.EndDate);
+END LOOP;
+END;
+/
