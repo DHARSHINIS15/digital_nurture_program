@@ -1,0 +1,205 @@
+﻿Diagnose log at 2026-07-03T06:06:41Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+PROCESSOR_ARCHITEW6432=AMD64
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LENOVO
+GIT_TRACE2_PARENT_SID=438aef1e-79c8-48d6-ab1d-0a5a2946cade
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\dhars\OneDrive
+HOMEPATH=\Users\dhars
+EFC_9932_3789132940=1
+TMP=C:\Users\dhars\AppData\Local\Temp
+PROCESSOR_REVISION=9a04
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\dhars\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\dhars\AppData\Local
+MSYSTEM=MINGW64
+SESSIONNAME=Console
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+ProgramW6432=C:\Program Files
+USERDOMAIN=LENOVO
+ComSpec=C:\WINDOWS\system32\cmd.exe
+HOMEDRIVE=C:
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\dhars\bin;E:\OracleXE\dbhomeXE\bin;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\dhars\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.2\bin;;C:\Users\dhars\AppData\Roaming\Python\Python312\site-packages;C:\Users\dhars\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dhars\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\dhars\AppData\Roaming\npm;C:\Users\dhars\AppData\Local\Programs\Antigravity\bin;C:\Users\dhars\AppData\Local\Programs\Python\Python312\;C:\Users\dhars\AppData\Local\Programs\Python\Python312\Scripts\;
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\dhars\AppData\Local\Temp
+APPDATA=C:\Users\dhars\AppData\Roaming
+PROMPT=$P$G
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+EFC_9932_4126798990=1
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArQUwL4/SAkSMtq8RHrCb0AQAAAACAAAAAAAQZgAAAAEAACAAAACBt4pE9Mr0tbbdfpfMA/LiW6DrXZwiLOJQ1kCXtbZzlwAAAAAOgAAAAAIAACAAAAC4eI9OmBHVwTrZiaqcmBaf0DDDz/FX6wvhUA6Au1yMzWAAAACYVVeIUVWauHggop7yyplaS/P1HwCKf1C3tPaSdfAqQWzKYTt1rxO1GMJKPKHUcU+sQJwrZu+mOr0pHv7JPLFi960wZKQwNI6BVrurez3aQugdK0iz05RRu0lEOAe+iQhAAAAA726/NAA/YGCdgHo1kozAXea3fwr5Fr6sl+jHJ1T8p0+OpNNTPAcx3ODYOJY2tt/Grk8qhzMo9X491s89hsXfMQ==
+PLINK_PROTOCOL=ssh
+COLORTERM=truecolor
+MSYS=disable_pcon
+ProgramFiles=C:\Program Files (x86)
+PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.2\bin;
+SystemRoot=C:\WINDOWS
+EFC_9932_1262719628=1
+HOME=C:\Users\dhars
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\LENOVO
+USERPROFILE=C:\Users\dhars
+USERDOMAIN_ROAMINGPROFILE=LENOVO
+TERM=xterm-256color
+EFC_9932_2775293581=1
+ProgramData=C:\ProgramData
+EFC_9932_1592913036=1
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+EFC_9932_2283032206=1
+USERNAME=dhars
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+EFC_9932_2946480783=1
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\dhars\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\dhars\AppData\Local\Temp\78b64836aefc7858d43eece6'... OK
+Reading from temporary file 'C:\Users\dhars\AppData\Local\Temp\78b64836aefc7858d43eece6'... OK
+Deleting temporary file 'C:\Users\dhars\AppData\Local\Temp\78b64836aefc7858d43eece6'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\dhars
+UserDataDirectoryPath: C:\Users\dhars\.gcm
+GetCurrentDirectory(): C:\Users\dhars\Documents\digital_nurture_program
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58413/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.1.windows.1'
+Locating current repository...Git repository at 'C:/Users/dhars/Documents/digital_nurture_program/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/dhars/.gitconfig	http.postbuffer=524288000
+file:C:/Users/dhars/.gitconfig	user.name=DHARSHINIS15
+file:C:/Users/dhars/.gitconfig	user.email=dharshinis415@gmail.com
+file:C:/Users/dhars/.gitconfig	credential.helper=
+file:C:/Users/dhars/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager.exe
+file:C:/Users/dhars/.gitconfig	core.longpaths=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/DHARSHINIS15/digital_nurture_program.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\dhars\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\dhars\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 403 (rate limit exceeded).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at GitHub.GitHubRestApi.<GetMetaInfoAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitHub.Diagnostics.GitHubApiDiagnostic.<RunInternalAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint...
