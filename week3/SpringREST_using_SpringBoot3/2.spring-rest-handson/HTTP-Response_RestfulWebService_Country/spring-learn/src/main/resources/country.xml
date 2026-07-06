@@ -13,5 +13,36 @@
         <property name="name" value="India"/>
 
     </bean>
+    <bean id="countryList"
+          class="com.cognizant.spring_learn.CountryList">
+
+        <property name="countryList">
+            <list>
+
+                <bean class="com.cognizant.spring_learn.Country">
+                    <property name="code" value="IN"/>
+                    <property name="name" value="India"/>
+                </bean>
+
+                <bean class="com.cognizant.spring_learn.Country">
+                    <property name="code" value="US"/>
+                    <property name="name" value="United States"/>
+                </bean>
+
+                <bean class="com.cognizant.spring_learn.Country">
+                    <property name="code" value="JP"/>
+                    <property name="name" value="Japan"/>
+                </bean>
+
+                <bean class="com.cognizant.spring_learn.Country">
+                    <property name="code" value="DE"/>
+                    <property name="name" value="Germany"/>
+                </bean>
+
+            </list>
+        </property>
+
+    </bean>
+
 
 </beans>
