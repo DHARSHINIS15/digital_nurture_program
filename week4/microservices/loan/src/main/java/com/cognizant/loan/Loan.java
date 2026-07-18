@@ -1,0 +1,39 @@
+package com.cognizant.loan;
+
+public class Loan {
+	private String number;
+	private String type;
+	private long loan;
+	private long emi;
+	private long tenture;
+	public String getNumber() {
+		return number;
+	}
+	public void setNumber(String number) {
+		this.number = number;
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	public long getLoan() {
+		return loan;
+	}
+	public void setLoan(long loan) {
+		this.loan = loan;
+	}
+	public long getEmi() {
+		return emi;
+	}
+	public void setEmi(long emi) {
+		this.emi = emi;
+	}
+	public long getTenture() {
+		return tenture;
+	}
+	public void setTenture(long tenture) {
+		this.tenture = tenture;
+	}
+}
